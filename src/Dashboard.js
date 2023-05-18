@@ -10,6 +10,7 @@ const Dashboard = () => {
                 <h5>Hello</h5> 
               </CardHeader>
               <CardBody>
+                <img src="foo.png" />
                
                 <p>world</p>
               </CardBody>
