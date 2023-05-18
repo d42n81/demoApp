@@ -11,6 +11,7 @@ const Dashboard = () => {
               </CardHeader>
               <CardBody>
                 <img src="foo.png" />
+                <img src="baz.png" />
                
                 <p>world</p>
               </CardBody>
